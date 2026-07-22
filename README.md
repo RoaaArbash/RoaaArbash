@@ -10,7 +10,7 @@ I am a fourth-year Information Technology Engineering student at Arab Internatio
 ### 🚀 Featured Projects
 - [**Little Lemon Admin Dashboard**](https://github.com/RoaaArbash/little-lemon-admin-dashboard): A responsive reservation and inventory dashboard built with React, featuring state management and LocalStorage persistence.
 - [**Coursera E-learning Platform**](https://github.com/RoaaArbash/coursera-elearning-platform): A dynamic web platform developed with Laravel and MySQL, featuring user authentication and role-based access control.
-- * **[movie-explorer](https://github.com/RoaaArbash/movie-explorer)**: Movie Explorer is a modern React.js web application that allows users to search for movies, explore detailed information, and manage a personalized list of favorite movies. The application integrates the OMDb API to fetch real-time movie data and demonstrates modern front-end development practices.
+- **[movie-explorer](https://github.com/RoaaArbash/movie-explorer)**: A modern React.js web application that allows users to search for movies, explore detailed information, and manage a personalized list of favorite movies. The application integrates the OMDb API to fetch real-time movie data and demonstrates modern front-end development practices.
 
 ### 📫 Connect with me
 - **LinkedIn:** [Roaa Arbash](https://www.linkedin.com/in/roaa-arbash-dev/)
