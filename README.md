@@ -9,7 +9,7 @@ I am a fourth-year Information Technology Engineering student at Arab Internatio
 
 ### 🚀 Featured Projects
 - **[meta-front-end-developer-capstone](https://github.com/RoaaArbash/meta-front-end-developer-capstone)**: This is the final capstone project for the Meta Front-End Developer Professional Certificate on Coursera. It showcases a fully responsive developer portfolio built with React, Chakra UI, Formik, and Yup.
-- [**Coursera E-learning Platform**](https://github.com/RoaaArbash/coursera-elearning-platform): A dynamic web platform developed with Laravel and MySQL, featuring user authentication and role-based access control.
+- [**Coursera E-learning Platform**](https://github.com/RoaaArbash/coursera-elearning-platform):A dynamic E-Learning web platform developed with PHP, MySQL, and JavaScript, featuring user authentication, course management, and an admin dashboard. Built as a Web Programming project at Arab International University (AIU).
 - **[movie-explorer](https://github.com/RoaaArbash/movie-explorer)**: A modern React.js web application that allows users to search for movies, explore detailed information, and manage a personalized list of favorite movies. The application integrates the OMDb API to fetch real-time movie data and demonstrates modern front-end development practices.
 
 ### 📫 Connect with me
