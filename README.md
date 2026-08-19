@@ -31,7 +31,7 @@ Tools
 
  Featured Projects:
 
-  Movie Explorer
+  *Movie Explorer
 
 A React.js web application for discovering movies through the OMDb API.
 
@@ -46,7 +46,7 @@ View Project:https://github.com/RoaaArbash/movie-explorer
 
 ⸻
 
-  Little Lemon Admin Dashboard
+  *Little Lemon Admin Dashboard
 
 A responsive React dashboard designed for restaurant management.
 
@@ -61,7 +61,7 @@ View Project:https://github.com/RoaaArbash/little-lemon-admin-dashboard
 
 ⸻
 
-  Flower Shop Management System
+  *Flower Shop Management System
 
 A Laravel-based management system with authentication and role-based access control.
 
@@ -76,7 +76,7 @@ View Project:https://github.com/RoaaArbash/store-project-laravel
 
 ⸻
 
-  Meta Front-End Developer Capstone
+  *Meta Front-End Developer Capstone
 
 Final capstone project for the Meta Front-End Developer Professional Certificate.
 
@@ -89,12 +89,12 @@ Tech: React.js, Chakra UI, Formik, Yup
 
 View Project:https://github.com/RoaaArbash/meta-front-end-developer-capstone
 
-  Education
+  *Education
 
 B.Sc. in Information Technology Engineering
 Arab International University (AIU)
 
-  Certifications
+  *Certifications
 
 * Meta Front-End Developer Professional Certificate
 * Programming with JavaScript
