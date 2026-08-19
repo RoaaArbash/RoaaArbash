@@ -1,20 +1,107 @@
-# Hello, I'm Roaa Arbash! 👋
+Roaa Arbash 
 
-I am a fourth-year Information Technology Engineering student at Arab International University (AIU) and a passionate Full-Stack Developer. I love building clean, user-centric, and scalable web applications.
+React Front-End Developer | Information Technology Engineering Student
 
-### 🛠 Tech Stack
-- **Frontend:** React.js (Hooks, Context API), JavaScript (ES6+), HTML5, CSS3, Responsive Design.
-- **Backend:** PHP, Laravel Framework, MySQL.
-- **Tools:** Git, GitHub, VS Code, Postman.
+I’m a fourth-year Information Technology Engineering student at Arab International University (AIU), focused on building responsive, accessible, and user-friendly web applications with React and JavaScript.
 
-### 🚀 Featured Projects
-- **[meta-front-end-developer-capstone](https://github.com/RoaaArbash/meta-front-end-developer-capstone)**: This is the final capstone project for the Meta Front-End Developer Professional Certificate on Coursera. It showcases a fully responsive developer portfolio built with React, Chakra UI, Formik, and Yup.
-- [**Coursera E-learning Platform**](https://github.com/RoaaArbash/coursera-elearning-platform):A dynamic E-Learning web platform developed with PHP, MySQL, and JavaScript, featuring user authentication, course management, and an admin dashboard. Built as a Web Programming project at Arab International University (AIU).
-- **[movie-explorer](https://github.com/RoaaArbash/movie-explorer)**: A modern React.js web application that allows users to search for movies, explore detailed information, and manage a personalized list of favorite movies. The application integrates the OMDb API to fetch real-time movie data and demonstrates modern front-end development practices.
+I enjoy turning ideas into clean, maintainable interfaces and continuously improving my skills through hands-on projects.
 
-### 📫 Connect with me
-- **LinkedIn:** [Roaa Arbash](https://www.linkedin.com/in/roaa-arbash-dev/)
-- **Email:** roarbash@gmail.com
+ Tech Stack
 
----
-*Always eager to learn new technologies and contribute to exciting engineering projects!*
+Frontend
+
+* React.js (Hooks, Context API)
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Responsive Design
+
+Backend & Database
+
+* PHP
+* Laravel
+* MySQL
+* REST APIs
+
+Tools
+
+* Git & GitHub
+* Postman
+* VS Code
+
+ Featured Projects:
+
+  Movie Explorer
+
+A React.js web application for discovering movies through the OMDb API.
+
+* Search and explore movie details
+* Manage a personalized favorites list
+* Integrated real-time data from the OMDb API
+* Built with a responsive and user-friendly interface
+
+Tech: React.js, JavaScript, REST API
+
+View Project￼
+
+⸻
+
+  Little Lemon Admin Dashboard
+
+A responsive React dashboard designed for restaurant management.
+
+* Built reusable React components
+* Used useState and useEffect for state management
+* Implemented LocalStorage persistence
+* Focused on responsive UI and usability
+
+Tech: React.js, JavaScript, Chakra UI
+
+View Project￼
+
+⸻
+
+  Flower Shop Management System
+
+A Laravel-based management system with authentication and role-based access control.
+
+* Implemented user authentication and authorization
+* Added role-based access control (RBAC)
+* Built AJAX-powered live search
+* Worked with MySQL optimization using indexes and stored procedures
+
+Tech: Laravel, PHP, MySQL, JavaScript, AJAX
+
+View Project￼
+
+⸻
+
+  Meta Front-End Developer Capstone
+
+Final capstone project for the Meta Front-End Developer Professional Certificate.
+
+* Built a responsive React application
+* Implemented form handling and validation
+* Used Chakra UI for the interface
+* Used Formik and Yup for form management and validation
+
+Tech: React.js, Chakra UI, Formik, Yup
+
+View Project￼
+
+  Education
+
+B.Sc. in Information Technology Engineering
+Arab International University (AIU)
+
+  Certifications
+
+* Meta Front-End Developer Professional Certificate
+* Programming with JavaScript
+* HTML and CSS in Depth
+* Principles of UX/UI Design
+
+  Connect With Me
+
+* LinkedIn:[ Roaa Arbash￼](https://www.linkedin.com/in/roaa-arbash-dev/)
+* Email: roarbash@gmail.com
