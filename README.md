@@ -42,7 +42,7 @@ A React.js web application for discovering movies through the OMDb API.
 
 Tech: React.js, JavaScript, REST API
 
-View Project￼
+View Project:https://github.com/RoaaArbash/movie-explorer
 
 ⸻
 
@@ -72,7 +72,7 @@ A Laravel-based management system with authentication and role-based access cont
 
 Tech: Laravel, PHP, MySQL, JavaScript, AJAX
 
-View Project￼
+View Project:https://github.com/RoaaArbash/store-project-laravel
 
 ⸻
 
@@ -87,7 +87,7 @@ Final capstone project for the Meta Front-End Developer Professional Certificate
 
 Tech: React.js, Chakra UI, Formik, Yup
 
-View Project￼
+View Project:https://github.com/RoaaArbash/meta-front-end-developer-capstone
 
   Education
 
@@ -103,5 +103,5 @@ Arab International University (AIU)
 
   Connect With Me
 
-* LinkedIn:[ Roaa Arbash￼](https://www.linkedin.com/in/roaa-arbash-dev/)
+* LinkedIn:[ Roaa Arbash](https://www.linkedin.com/in/roaa-arbash-dev/)
 * Email: roarbash@gmail.com
