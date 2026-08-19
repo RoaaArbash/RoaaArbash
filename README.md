@@ -57,7 +57,7 @@ A responsive React dashboard designed for restaurant management.
 
 Tech: React.js, JavaScript, Chakra UI
 
-View Project￼
+View Project:https://github.com/RoaaArbash/little-lemon-admin-dashboard
 
 ⸻
 
